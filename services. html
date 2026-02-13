@@ -1,1 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Services | Psychic Shiv Ji</title>
+<link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+<header>
+<h1>Our Astrology Services</h1>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section class="section">
+<div class="services">
+
+<div class="box">
+<h3>Love Problem Solution</h3>
+<p>Guidance for relationship and emotional challenges.</p>
+</div>
+
+<div class="box">
+<h3>Marriage Problem Solution</h3>
+<p>Astrology remedies for harmony and peace.</p>
+</div>
+
+<div class="box">
+<h3>Love Back Specialist</h3>
+<p>Spiritual guidance to restore relationships.</p>
+</div>
+
+<div class="box">
+<h3>Career & Business Guidance</h3>
+<p>Astrology advice for success and growth.</p>
+</div>
+
+<div class="box">
+<h3>Negative Energy Removal</h3>
+<p>Spiritual cleansing and protection remedies.</p>
+</div>
+
+<div class="box">
+<h3>Horoscope Reading</h3>
+<p>Accurate kundli analysis and predictions.</p>
+</div>
+
+</div>
+</section>
+
+<footer>
+© 2026 Psychic Shiv Ji Astrology
+</footer>
+
+<a href="tel:YOURNUMBER" class="float-call">Call Now</a>
+<a href="https://wa.me/YOURNUMBER" class="float-whatsapp">WhatsApp</a>
+
+</body>
+</html>
